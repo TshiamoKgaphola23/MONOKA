@@ -1,3 +1,4 @@
-def display_name(name):
-    name = input("please enter your name :")
-    print(name)
+name = "Tshiamo"
+first_three_letters = name[:3]
+print(first_three_letters)
+
